@@ -28,6 +28,7 @@
 
 #include <algorithm>
 #include <opencv2/opencv.hpp>
+#include <opencv2/imgproc/imgproc_c.h>
 #include <vector>
 
 #include <deltille/TagFamily.h>
